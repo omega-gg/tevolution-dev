@@ -10,7 +10,15 @@ Designed to take streaming requests from a [Semantic Player](https://omega.gg/ab
 <a href="https://omega.gg/tevolution"><img src="dist/screens/tevolutionA.png" alt="tevolution" width="512px"></a>
 
 tevolution streams videos remotely from a Semantic Player like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
-It supports [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent), [Youtube](https://en.wikipedia.org/wiki/Youtube), [Dailymotion](https://en.wikipedia.org/wiki/Dailymotion), [Vimeo](https://en.wikipedia.org/wiki/Vimeo), [Twitch](https://en.wikipedia.org/wiki/Twitch_(service)) and [SoundCloud](https://en.wikipedia.org/wiki/SoundCloud).<br>
+It supports [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent),
+            [TMDB](https://www.themoviedb.org),
+            [Youtube](https://en.wikipedia.org/wiki/Youtube),
+            [Dailymotion](https://en.wikipedia.org/wiki/Dailymotion),
+            [Vimeo](https://en.wikipedia.org/wiki/Vimeo),
+            [Twitch](https://en.wikipedia.org/wiki/Twitch_(service)),
+            [TikTok](https://en.wikipedia.org/wiki/TikTok),
+            [Odysee](https://en.wikipedia.org/wiki/Odysee) and
+            [SoundCloud](https://en.wikipedia.org/wiki/SoundCloud).<br>
 All of this while serving the end user at all time and without ever showing an ad.<br>
 
 ## Technology
