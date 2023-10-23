@@ -10,7 +10,8 @@ Designed to take streaming requests from a [Semantic Player](https://omega.gg/ab
 <a href="https://omega.gg/tevolution"><img src="dist/screens/tevolutionA.png" alt="tevolution" width="512px"></a>
 
 tevolution streams videos remotely from a Semantic Player like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
-It supports [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent),
+It supports [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo),
+            [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent),
             [TMDB](https://www.themoviedb.org),
             [Youtube](https://en.wikipedia.org/wiki/Youtube),
             [Dailymotion](https://en.wikipedia.org/wiki/Dailymotion),
