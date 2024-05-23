@@ -42,7 +42,7 @@ tevolution is built in C++ with [Sky kit](https://omega.gg/Sky/sources).<br>
 
 ## License
 
-Copyright (C) 2015 - 2020 tevolution authors | https://omega.gg/tevolution
+Copyright (C) 2015 - 2024 tevolution authors | https://omega.gg/tevolution
 
 ### Authors
 
